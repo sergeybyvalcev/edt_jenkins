@@ -25,7 +25,7 @@
 		<Metadata name="CommonModule.ОбщегоНазначенияВызовСервера.Module" id="d589166d-9c2a-4ff7-a070-44028f1bdf0a.0" configVersion="a00716041626f043b9c186200e5eae8e00000000"/>
 		<Metadata name="CommonModule.ПроведениеДокументов" id="1b4987fb-93fe-4c73-a0e9-a8fc9f5ee17d" configVersion="3bd5d69acd95fa489ecbf88258786af300000000"/>
 		<Metadata name="CommonModule.ПроведениеДокументов.Module" id="1b4987fb-93fe-4c73-a0e9-a8fc9f5ee17d.0" configVersion="e0f2777ae2690c419c656abb4080ee5f00000000"/>
-		<Metadata name="Configuration.Конфигурация" id="89bc18b3-980d-4a0b-95f5-9dcdd1cbafec" configVersion="6262c321f72795498da681a71047137600000000"/>
+		<Metadata name="Configuration.Конфигурация" id="89bc18b3-980d-4a0b-95f5-9dcdd1cbafec" configVersion="edbd054b1b1304409d69a20e5baf4f9700000000"/>
 		<Metadata name="Configuration.Конфигурация.CommandInterface" id="f5ee4138-7982-4dc4-b1f8-9fa4f2bc13d7.a" configVersion="75d6edf461c49743b80984709b944d5b00000000"/>
 		<Metadata name="Configuration.Конфигурация.ManagedApplicationModule" id="f5ee4138-7982-4dc4-b1f8-9fa4f2bc13d7.6" configVersion="bb7242b9da3f2c49af521fbad46074ff00000000"/>
 		<Metadata name="Constant.НастройкаПартионногоУчета" id="bcb44b38-9eaf-4238-a8e4-da05ea4366ca" configVersion="0b2714352a3afc41b422f4bc9820003400000000"/>
@@ -69,6 +69,8 @@
 		<Metadata name="Report.ПрибыльОтПродаж" id="6311f59d-e39e-41e7-a85a-efe3f135665a" configVersion="28f59dbe8bccc6409ff771bbe25509f600000000"/>
 		<Metadata name="Report.ПрибыльОтПродаж.Template.СхемаКомпоновкиДанных" id="b1f5c14a-249a-4648-a030-19f284aa8700" configVersion="1c3cde8d13d769429ea864ab19de3da700000000"/>
 		<Metadata name="Report.ПрибыльОтПродаж.Template.СхемаКомпоновкиДанных.Template" id="b1f5c14a-249a-4648-a030-19f284aa8700.0" configVersion="f012b74e303e3747bab2965e92a7eedc00000000"/>
+		<Metadata name="Role.ПолныеПрава" id="25e1c35d-69e6-4200-92d7-2b81187d2efb" configVersion="c3cbe2486f78304fabe2a427daefb69e00000000"/>
+		<Metadata name="Role.ПолныеПрава.Rights" id="25e1c35d-69e6-4200-92d7-2b81187d2efb.0" configVersion="08dfb84318276549a7009d29afffc32500000000"/>
 		<Metadata name="Subsystem.НСИ" id="ab91687e-5922-4a35-89ae-d112bac65a0d" configVersion="a6f31dce50a70e47bbf948b112131f6900000000"/>
 		<Metadata name="Subsystem.НСИ.CommandInterface" id="ab91687e-5922-4a35-89ae-d112bac65a0d.1" configVersion="13f502a3f08ac84594a33b3e32bd53db00000000"/>
 		<Metadata name="Subsystem.Отчеты" id="0597b51c-56c7-4ba7-a4d3-67fad6a8cb46" configVersion="829f40e37082f04fa7542c59f468aeb700000000"/>
