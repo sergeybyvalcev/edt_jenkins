@@ -23,8 +23,8 @@
 		<Metadata name="CommonModule.ОбщегоНазначения.Module" id="72df4c1a-6d4c-447c-9bb9-0e9eeeb102b5.0" configVersion="f1528a9e6bdf5e4382771da18de3226400000000"/>
 		<Metadata name="CommonModule.ОбщегоНазначенияВызовСервера" id="d589166d-9c2a-4ff7-a070-44028f1bdf0a" configVersion="e56ce9fb91d0b24abc355b812336548000000000"/>
 		<Metadata name="CommonModule.ОбщегоНазначенияВызовСервера.Module" id="d589166d-9c2a-4ff7-a070-44028f1bdf0a.0" configVersion="572a7c0a2554294eaba51fc1a8065dc800000000"/>
-		<Metadata name="CommonModule.ПроведениеДокументов" id="1b4987fb-93fe-4c73-a0e9-a8fc9f5ee17d" configVersion="3bd5d69acd95fa489ecbf88258786af300000000"/>
-		<Metadata name="CommonModule.ПроведениеДокументов.Module" id="1b4987fb-93fe-4c73-a0e9-a8fc9f5ee17d.0" configVersion="e0f2777ae2690c419c656abb4080ee5f00000000"/>
+		<Metadata name="CommonModule.ПроведениеДокументов" id="1b4987fb-93fe-4c73-a0e9-a8fc9f5ee17d" configVersion="74e4b16e32a69d43a86d38c2b587e7ad00000000"/>
+		<Metadata name="CommonModule.ПроведениеДокументов.Module" id="1b4987fb-93fe-4c73-a0e9-a8fc9f5ee17d.0" configVersion="01d54ae8262a5348bffab3b73b614cdf00000000"/>
 		<Metadata name="Configuration.Конфигурация" id="89bc18b3-980d-4a0b-95f5-9dcdd1cbafec" configVersion="edbd054b1b1304409d69a20e5baf4f9700000000"/>
 		<Metadata name="Configuration.Конфигурация.CommandInterface" id="f5ee4138-7982-4dc4-b1f8-9fa4f2bc13d7.a" configVersion="75d6edf461c49743b80984709b944d5b00000000"/>
 		<Metadata name="Configuration.Конфигурация.ManagedApplicationModule" id="f5ee4138-7982-4dc4-b1f8-9fa4f2bc13d7.6" configVersion="bb7242b9da3f2c49af521fbad46074ff00000000"/>
