@@ -1,0 +1,16 @@
+﻿1CV8LOG(ver 2.0)
+dbef9190-bbb7-4ec0-a52f-37cb63b6ccc2
+
+{1,071523a4-516f-4fce-ba4b-0d11ab7a1893,"",1},
+{2,"DESKTOP-ORQA5KN",1},
+{3,"Designer",1},
+{4,"_$Session$_.Authentication",1},
+{13,1,1},
+{4,"_$Session$_.Start",2},
+{4,"_$InfoBase$_.RestoreStart",3},
+{4,"_$Session$_.Finish",4},
+{4,"_$InfoBase$_.RestoreFinish",5},
+{1,df0a57a5-70e6-4966-99aa-d3aa3a6e2d45,"Teacher",2},
+{13,1,2},
+{4,"_$InfoBase$_.DBConfigUpdateStart",6},
+{4,"_$InfoBase$_.DBConfigUpdate",7}
